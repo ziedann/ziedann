@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying on **School**
  
- 🌱 I’m currently learning **NextJS, Supabase, Typescript**
+ 🌱 I’m currently learning **NextJS, Neon, Prisma**
 
 💬 Ask me about **Javascript, ReactJS, ... or anything [here](https://github.com/ziedann?tab=repositories)**
 
